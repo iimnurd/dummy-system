@@ -3,6 +3,6 @@ site_description: 'Main documentation for Backstage features and platform APIs'
 
 plugins:
   - techdocs-core
-
+docs_dir: 'docs'
 nav:
   - FAQ: FAQ.md
